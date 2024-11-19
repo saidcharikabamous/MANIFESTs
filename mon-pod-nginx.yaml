@@ -5,7 +5,7 @@ metadata:
   namespace: monprojet
   labels:
     app: nginx
-    env: test
+    env: prep
 spec:
   containers:
   - name: conteneur-nginx
